@@ -1,0 +1,28 @@
+D:\Project\Api\Core\bin\Debug\net6.0\Core.deps.json
+D:\Project\Api\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+D:\Project\Api\Core\bin\Debug\net6.0\Core.dll
+D:\Project\Api\Core\bin\Debug\net6.0\Core.pdb
+D:\Project\Api\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\Project\Api\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Api\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\Project\Api\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\Project\Api\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\Project\Api\Core\obj\Debug\net6.0\Core.dll
+D:\Project\Api\Core\obj\Debug\net6.0\refint\Core.dll
+D:\Project\Api\Core\obj\Debug\net6.0\Core.pdb
+D:\Project\Api\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+D:\Project\Api\Core\obj\Debug\net6.0\ref\Core.dll
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\bin\Debug\net6.0\Core.deps.json
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\bin\Debug\net6.0\Core.dll
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\bin\Debug\net6.0\Core.pdb
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.dll
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\refint\Core.dll
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.pdb
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\ref\Core.dll
