@@ -1,0 +1,19 @@
+<header>
+    <span *ngIf="totalCount && totalCount > 0">
+        Showing
+    <Strong>
+        {{(pageNumber-1)*pageSize+1}} -
+        {{pageNumber*pageSize
+        >this.totalCount
+        ? this.totalCount
+          : pageNumber*pageSize
+        }}
+    </Strong> of <strong>
+        {{this.totalCount}}
+    </strong>
+     Result
+    </span>
+    <span *ngIf="totalCount === 0">
+        There are <strong> 0 </strong> Result forh this Filter
+    </span>
+</header>
