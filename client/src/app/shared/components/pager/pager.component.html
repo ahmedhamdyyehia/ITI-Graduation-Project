@@ -1,0 +1,11 @@
+<pagination 
+class="d-flex flex-wrap" 
+[boundaryLinks]="true" 
+[totalItems]="totalCount"
+(pageChanged)="this.onPagerChange($event)"
+[itemsPerPage]="pageSize"
+previousText="&lsaquo;"
+nextText="&rsaquo;"
+ firstText="&laquo;"
+  lastText="&raquo;">
+</pagination>
