@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gjuCAXHXmVV339Yr80Dh+dYHwkSw57226Q4na5w/BAY=",
+  "Hash": "n1uOF0yBXruUzn/TWC6ig5V2njD3630hD/KPCeNf+jE=",
   "Source": "Api",
   "BasePath": "_content/Api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Api\\wwwroot",
       "Source": "Api",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Airpods.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Airpods.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/Airpods.png",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Airpods.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\AIrpodsMax.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\AIrpodsMax.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/AIrpodsMax.png",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\AIrpodsMax.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\AirpodsPro.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\AirpodsPro.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/AirpodsPro.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\AirpodsPro.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\AppleWatch6Red.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\AppleWatch6Red.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/AppleWatch6Red.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\AppleWatch6Red.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\AppleWatch7StarLight.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\AppleWatch7StarLight.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/AppleWatch7StarLight.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\AppleWatch7StarLight.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\AppleWatchSEGold.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\AppleWatchSEGold.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/AppleWatchSEGold.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\AppleWatchSEGold.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\boot-ang1.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\boot-ang1.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/boot-ang1.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang1.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\boot-ang2.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\boot-ang2.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/boot-ang2.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang2.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\boot-core1.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\boot-core1.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/boot-core1.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-core1.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\boot-core2.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\boot-core2.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/boot-core2.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-core2.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\boot-redis1.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\boot-redis1.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/boot-redis1.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\glove-code1.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\glove-code1.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/glove-code1.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-code1.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\glove-code2.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\glove-code2.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/glove-code2.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-code2.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\glove-react1.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\glove-react1.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/glove-react1.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-react1.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\glove-react2.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\glove-react2.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/glove-react2.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-react2.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\hat-core1.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\hat-core1.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/hat-core1.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-core1.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\hat-react1.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\hat-react1.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/hat-react1.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\hat-react2.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\hat-react2.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/hat-react2.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-react2.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\ImacBlue.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\ImacBlue.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/ImacBlue.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ImacBlue.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\ImacGrey.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\ImacGrey.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/ImacGrey.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ImacGrey.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\IpadAirBlue.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\IpadAirBlue.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/IpadAirBlue.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\IpadAirBlue.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\IpadAirRoseGold.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\IpadAirRoseGold.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/IpadAirRoseGold.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\IpadAirRoseGold.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\IpadAirWhite.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\IpadAirWhite.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/IpadAirWhite.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\IpadAirWhite.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\IpadMibiPurple.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\IpadMibiPurple.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/IpadMibiPurple.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\IpadMibiPurple.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\IpadMiniGrey.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\IpadMiniGrey.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/IpadMiniGrey.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\IpadMiniGrey.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\IpadProBlack.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\IpadProBlack.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/IpadProBlack.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\IpadProBlack.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\IpadProWhite.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\IpadProWhite.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/IpadProWhite.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\IpadProWhite.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone12Blue.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone12Blue.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/Iphone12Blue.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Iphone12Blue.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone12ProMaxBlue.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone12ProMaxBlue.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/Iphone12ProMaxBlue.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Iphone12ProMaxBlue.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone12Purple.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone12Purple.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/Iphone12Purple.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Iphone12Purple.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone12White.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone12White.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/Iphone12White.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Iphone12White.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone13Black.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone13Black.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/Iphone13Black.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Iphone13Black.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone13Blue.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone13Blue.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/Iphone13Blue.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Iphone13Blue.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone13Red.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone13Red.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/Iphone13Red.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Iphone13Red.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone13White.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\Iphone13White.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/Iphone13White.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Iphone13White.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\MacAirM1.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\MacAirM1.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/MacAirM1.png",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\MacAirM1.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\MacProM1.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\MacProM1.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/MacProM1.png",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\MacProM1.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\sb-ang1.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\sb-ang1.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/sb-ang1.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\sb-ang2.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\sb-ang2.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/sb-ang2.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\sb-core1.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\sb-core1.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/sb-core1.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-core1.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\sb-core2.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\sb-core2.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/sb-core2.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-core2.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\sb-react1.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\sb-react1.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/sb-react1.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-react1.png"
     },
     {
-      "Identity": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\sb-ts1.png",
+      "Identity": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\images\\products\\sb-ts1.png",
       "SourceId": "Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Api\\wwwroot\\",
       "BasePath": "_content/Api",
       "RelativePath": "images/products/sb-ts1.png",
       "AssetKind": "All",

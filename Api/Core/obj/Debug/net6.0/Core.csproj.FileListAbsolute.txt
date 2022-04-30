@@ -26,3 +26,17 @@ D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\refin
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.pdb
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Core\bin\Debug\net6.0\Core.dll
+C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.dll
+C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Core\obj\Debug\net6.0\ref\Core.dll

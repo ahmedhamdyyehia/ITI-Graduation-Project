@@ -1,6 +1,7 @@
 ﻿using Api.DTOs;
 using AutoMapper;
 using Core.Models;
+using Core.Models.Identity;
 
 namespace Api.Helpers
 {
@@ -16,6 +17,7 @@ namespace Api.Helpers
             // the first thing is we gonna give it an expression
             // what we are affecting here is the destination member which is ProductToReturnDTO
 
+            CreateMap<Address, AddressDto>().ReverseMap();
         }
     }
 }

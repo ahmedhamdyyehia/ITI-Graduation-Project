@@ -1,13 +1,23 @@
 
 using Api.Errors;
+using Api.Extensions;
 using Api.Helpers;
 using Api.Middleware;
 using Core.Interfaces;
+using Core.Models.Identity;
 using Infrastructure.Data;
 using Infrastructure.Data.Repositories;
+using Infrastructure.Identity;
+using Infrastructure.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.IdentityModel.Tokens;
 using System.Linq;
+using System.Text;
+
 var builder = WebApplication.CreateBuilder(args);
 
 
@@ -21,6 +31,12 @@ Newtonsoft.Json.ReferenceLoopHandling.Ignore);
 builder.Services.AddDbContext<WebDbContext>(o =>
 o.UseSqlServer(builder.Configuration.GetConnectionString("con1"),
     b => b.MigrationsAssembly(typeof(WebDbContext).Assembly.FullName)));
+
+// add identityDbContext service
+builder.Services.AddDbContext<AppIdentityDbContext>(o =>
+{
+    o.UseSqlServer(builder.Configuration.GetConnectionString("IdentityConnection"));
+});
 
 builder.Services.Configure<ApiBehaviorOptions>(options =>
 {
@@ -44,8 +60,7 @@ builder.Services.Configure<ApiBehaviorOptions>(options =>
 
 
 
-
-
+builder.Services.AddScoped<ITokenService, TokenService>();
 builder.Services.AddScoped<IProdcutRepository, ProductRepository>();
 builder.Services.AddScoped(typeof(IGenericRepository<>),(typeof(GenericRepository<>)));
 
@@ -63,12 +78,30 @@ builder.Services.AddCors(opt =>
              policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://localhost:4200");
  
          })
-
-
 );
+
+//add identity services
+var config = builder.Configuration;
+builder.Services.AddIdentityServices(config);
 
 
 var app = builder.Build();
+
+//seeding data
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    //var context = services.GetRequiredService<StoreDbContext>();
+    //await StoreSeed.SeedDataAsync(context);
+
+    var userManger = services.GetRequiredService<UserManager<AppUser>>();
+    //var identityContext = services.GetRequiredService<AppIdentityDbContext>();
+
+    //await identityContext.Database.MigrateAsync();
+    await AppIdentityDbContextSeed.SeedUserAsync(userManger);
+
+}
 
 // Configure the HTTP request pipeline.
 app.UseMiddleware<ExceptionMiddleware>();
@@ -84,6 +117,8 @@ app.UseStatusCodePagesWithReExecute("/errors/{0}");
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseCors("CorsPolicy");
+
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
