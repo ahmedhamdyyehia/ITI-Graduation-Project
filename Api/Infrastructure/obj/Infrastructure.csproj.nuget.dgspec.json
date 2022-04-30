@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Core\\Core.csproj": {
+    "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\GIGABYTE\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Core\\obj\\",
+        "projectPath": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\INTEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\GIGABYTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\INTEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,6 +59,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.4, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.4, )"
             }
           },
           "imports": [
@@ -76,21 +80,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\GIGABYTE\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\INTEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\GIGABYTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\INTEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,8 +108,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Core\\Core.csproj": {
-                "projectPath": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Core\\Core.csproj"
+              "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Core\\Core.csproj"
               }
             }
           }
@@ -120,6 +124,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.4, )"
@@ -139,6 +151,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.4, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.17.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.17.0, )"
             }
           },
           "imports": [
@@ -156,7 +176,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
