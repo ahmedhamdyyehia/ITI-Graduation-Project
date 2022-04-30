@@ -13,11 +13,11 @@ namespace Core.Models
     {
       [Required,MaxLength(100)]
         public string Name { get; set; }
-      [Required, MaxLength(180)]
+      [Required, MaxLength(500)]
 
         public string Description { get; set; }
 
-        [Column(TypeName = "decimal(18,2)")]
+       // [Column(TypeName = "decimal(18,2)")]
         public decimal Price { get; set; }
        [Required]
         public string PictureUrl { get; set; }

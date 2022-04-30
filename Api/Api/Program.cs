@@ -87,18 +87,15 @@ builder.Services.AddIdentityServices(config);
 
 var app = builder.Build();
 
-//seeding data
 
+//seeding user Identity and products data
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
-    //var context = services.GetRequiredService<StoreDbContext>();
-    //await StoreSeed.SeedDataAsync(context);
-
+    var context = services.GetRequiredService<WebDbContext>();
     var userManger = services.GetRequiredService<UserManager<AppUser>>();
-    //var identityContext = services.GetRequiredService<AppIdentityDbContext>();
-
-    //await identityContext.Database.MigrateAsync();
+    
+    await StoreSeed.SeedDataAsync(context);
     await AppIdentityDbContextSeed.SeedUserAsync(userManger);
 
 }

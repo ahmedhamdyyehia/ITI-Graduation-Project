@@ -11,6 +11,7 @@ namespace Core.Models
     
     public class BaseEntity
     {
+        [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int Id { get; set; }
     }
 }
