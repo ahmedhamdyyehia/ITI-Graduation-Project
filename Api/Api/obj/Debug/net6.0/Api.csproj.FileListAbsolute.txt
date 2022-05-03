@@ -72,6 +72,10 @@ D:\Project\API\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
 D:\Project\API\Api\bin\Debug\net6.0\AutoMapper.dll
 D:\Project\API\Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Project\API\Api\bin\Debug\net6.0\Api.staticwebassets.runtime.json
+D:\Project\API\Api\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\Project\API\Api\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\Project\API\Api\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Project\API\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\appsettings.Development.json
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\appsettings.json
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Api.staticwebassets.runtime.json
@@ -104,10 +108,13 @@ D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Micros
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\StackExchange.Redis.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\System.Drawing.Common.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\System.Runtime.Caching.dll
@@ -121,6 +128,7 @@ D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\runtim
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
@@ -226,3 +234,9 @@ C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Api\bin\Debug\net6
 C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\INTEL\Desktop\ITI project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI Graduation Project\ITI-Graduation-Project\Api\Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll

@@ -1,4 +1,3 @@
-import { Injectable } from '@angular/core';
 import { HttpClient, HttpParams } from '@angular/common/http';
 import { IPagnation } from './../shared/models/IPagination';
 import { Observable } from 'rxjs';
@@ -6,12 +5,19 @@ import { IBrand } from './../shared/models/IBrand';
 import { IProductType } from './../shared/models/IProductType';
 import { ShopParams } from './../shared/models/ShopParams';
 import { IProduct } from '../shared/models/IProduct';
+import { Injectable } from '@angular/core';
+import { environment } from 'src/environments/environment';
+
+
 
 @Injectable({
   providedIn: 'root'
 })
 export class ShopService {
-  private baseUrl = `https://localhost:7259/api/`;
+  
+  baseUrl = environment.apiUrl;
+
+  //private baseUrl = `https://localhost:44370/api/`;
   
   constructor(private http:HttpClient) { }
 
@@ -51,3 +57,5 @@ export class ShopService {
     return this.http.get<IProductType[]>(this.baseUrl + `products/types`);
   }
 }
+
+

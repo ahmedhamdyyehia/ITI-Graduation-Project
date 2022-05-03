@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
+import { BasketService } from 'src/app/basket/basket.service';
 import { IProduct } from './../../shared/models/IProduct';
 import { ShopService } from './../shop.service';
 
@@ -10,7 +11,7 @@ import { ShopService } from './../shop.service';
 })
 export class ProductDetailsComponent implements OnInit {
   product?:IProduct;
-  constructor(private shopService:ShopService ,private activatedRoute:ActivatedRoute) {}
+  constructor(private shopService:ShopService ,private activatedRoute:ActivatedRoute, private basketService:BasketService) {}
 
   ngOnInit(): void {
     this.getProduct();
@@ -22,5 +23,9 @@ export class ProductDetailsComponent implements OnInit {
     this.shopService.getProduct(id).subscribe(response=>{
       this.product = response;
     });
+  }
+
+  addItemToBasket(){
+    this.basketService.addItemToBasket(this.product);
   }
 }

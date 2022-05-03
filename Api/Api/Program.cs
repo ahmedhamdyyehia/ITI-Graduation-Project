@@ -3,20 +3,21 @@ using Api.Errors;
 using Api.Extensions;
 using Api.Helpers;
 using Api.Middleware;
-using Core.Interfaces;
-using Core.Models.Identity;
-using Infrastructure.Data;
-using Infrastructure.Data.Repositories;
-using Infrastructure.Identity;
-using Infrastructure.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using StackExchange.Redis;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System.Linq;
 using System.Text;
+using Infrastructure.Data;
+using Infrastructure.Identity;
+using Core.Interfaces;
+using Infrastructure.Data.Repositories;
+using Infrastructure.Services;
+using Core.Models.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -32,10 +33,21 @@ builder.Services.AddDbContext<WebDbContext>(o =>
 o.UseSqlServer(builder.Configuration.GetConnectionString("con1"),
     b => b.MigrationsAssembly(typeof(WebDbContext).Assembly.FullName)));
 
+
+// Add Redis Config
+
+builder.Services.AddSingleton<IConnectionMultiplexer>(c =>
+{
+    var configuration = ConfigurationOptions.Parse(builder.Configuration
+        .GetConnectionString("Redis"), true);
+    return ConnectionMultiplexer.Connect(configuration);
+});
+
 // add identityDbContext service
 builder.Services.AddDbContext<AppIdentityDbContext>(o =>
 {
     o.UseSqlServer(builder.Configuration.GetConnectionString("IdentityConnection"));
+
 });
 
 builder.Services.Configure<ApiBehaviorOptions>(options =>
@@ -62,6 +74,8 @@ builder.Services.Configure<ApiBehaviorOptions>(options =>
 
 builder.Services.AddScoped<ITokenService, TokenService>();
 builder.Services.AddScoped<IProdcutRepository, ProductRepository>();
+builder.Services.AddScoped<IBasketRepository, BasketRepository>();
+
 builder.Services.AddScoped(typeof(IGenericRepository<>),(typeof(GenericRepository<>)));
 
 builder.Services.AddAutoMapper(typeof(MappingProfiles));
@@ -94,7 +108,7 @@ using (var scope = app.Services.CreateScope())
     var services = scope.ServiceProvider;
     var context = services.GetRequiredService<WebDbContext>();
     var userManger = services.GetRequiredService<UserManager<AppUser>>();
-    
+
     await StoreSeed.SeedDataAsync(context);
     await AppIdentityDbContextSeed.SeedUserAsync(userManger);
 

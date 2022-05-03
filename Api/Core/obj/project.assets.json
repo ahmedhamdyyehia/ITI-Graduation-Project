@@ -1987,19 +1987,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\INTEL\\.nuget\\packages\\": {}
+    "C:\\Users\\GIGABYTE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Core\\Core.csproj",
+      "projectUniqueName": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\INTEL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\INTEL\\Desktop\\ITI project\\ITI-Graduation-Project\\Api\\Core\\obj\\",
+      "projectPath": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\GIGABYTE\\.nuget\\packages\\",
+      "outputPath": "D:\\ITI Graduation Project\\ITI-Graduation-Project\\Api\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\INTEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\GIGABYTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2065,7 +2065,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
